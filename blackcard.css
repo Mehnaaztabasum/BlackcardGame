@@ -1,0 +1,40 @@
+p {
+    font-weight: 300;
+    font-size: 2rem;
+    color: aliceblue;
+}
+
+div.body {
+    background-color: green;
+    margin: 10%;
+    margin-left: 30%;
+    padding: 1%;
+    margin-right: 30%;
+    text-align: center;
+    font-size: 1rem;
+    border: blue;
+}
+
+h1 {
+    color: gold;
+    font-size: 3rem;
+}
+
+.start {
+    background-color: gold;
+    color: green;
+    padding: 2%;
+    font-size: 1.5rem;
+    border-radius: 3px;
+    width: 300px;
+}
+
+.Newcard {
+    background-color: gold;
+    color: green;
+    margin-top: 2%;
+    padding: 2%;
+    font-size: 1.5rem;
+    border-radius: 3px;
+    width: 300px;
+}
